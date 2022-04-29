@@ -1,0 +1,10 @@
+.FetchDatastyle {
+    width: 100%;
+    height: 100px;
+    background: #bad;
+    color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
